@@ -1,0 +1,20 @@
+id;descricao;cidade;uf;id_tipo_produto;desc_tp_produto;id_situacao;desc_situacao;qtd_ofertas
+4;Apple TV teste;Barueri;SP;12;Player de mídia;1;Ativo;1
+6;Chromecast novo;Barueri;SP;12;Player de mídia;1;Ativo;1
+7;Chromecast versão 3;Barueri;SP;12;Player de mídia;1;Ativo;0
+11;Samsung 55" 4K/UHD Smart QLED QN55Q80RAGXZD;Barueri;SP;13;Televisão;1;Ativo;0
+12;Samsung 55" 4K/UHD Smart QLED QN55Q80RAGXZD;Barueri;SP;13;Televisão;1;Ativo;0
+13;Samsung 55" 4K/UHD Smart LED Modelo UN50RU7100;Barueri;SP;13;Televisão;1;Ativo;0
+14;Samsung 50" 4K/UHD Smart LED UN50RU7100;Barueri;SP;13;Televisão;1;Ativo;0
+16;Samsung 50" 4K/UHD Smart LED UN50RU7100;Barueri;SP;13;Televisão;1;Ativo;0
+17;Samsung 50" 4K/UHD Smart LED UN50RU7100;Barueri;SP;13;Televisão;1;Ativo;0
+21;Samsung 50" 4K/UHD Smart LED UN50RU7100GXZD;Barueri;SP;13;Televisão;1;Ativo;0
+22;Samsung 50" 4K/UHD Smart LED UN50RU7100GXZD;Barueri;SP;13;Televisão;1;Ativo;0
+25;PS 4 Pro 1tb;Barueri;SP;40;Consoles;1;Ativo;0
+23;Samsung 50" 4K/UHD Smart LED UN50RU7100GXZD;Barueri;SP;13;Televisão;1;Ativo;0
+29;tv;Barueri;SP;13;Televisão;1;Ativo;0
+31;LG 65" Full HD Smart LED;Barueri;SP;13;Televisão;1;Ativo;0
+33;LG 65" 4K/UHD Smart LED Modelo 65 novo;Barueri;SP;13;Televisão;1;Ativo;0
+35;LG 65" 4K/UHD Tela curva LED Modelo TV;Barueri;SP;13;Televisão;1;Ativo;0
+36;Xbox One X;Barueri;SP;40;Consoles;1;Ativo;2
+74;LG 42";Barueri;SP;13;Televisão;1;Ativo;1

@@ -1,0 +1,2 @@
+id;mes;ano;id_empresa;nosso_numero;valor;data_vct;data_pg;multa;juros;valor_pg;qtd_ofertas;id_situacao;num_nfe;serie_nfe;id_usuario_login;razao_social;desc_situacao;endereco;numero;complemento;bairro;cep;cidade;uf;email_com;endereco_cob;numero_cob;cep_cob;cidade_cob;cnpj
+20;8;2019;1;-;216,00;10/09/2019 00:00:00;;;;0,00;7;9;;;1;Loja 1 Ltda;A liquidar;Rua X;1;1;Centro;06.414-025;Barueri;SP;loja1@gmail.com;Rua 2;2;06.414-025;Barueri/SP;54040627000103

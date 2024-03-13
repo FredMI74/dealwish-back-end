@@ -1,0 +1,4 @@
+ID;MES;ANO;ID_EMPRESA;NOSSO_NUMERO;VALOR;DATA_VCT;DATA_PG;MULTA;JUROS;VALOR_PG;QTD_OFERTAS;ID_SITUACAO;RAZAO_SOCIAL;DESC_SITUACAO;ENDERECO;NUMERO;COMPLEMENTO;BAIRRO;CEP;CIDADE;UF;EMAIL_COM;ENDERECO_COB;NUMERO_COB;CEP_COB;CIDADE_COB;CNPJ
+4;1;2019;3;1012019;1;13/03/2019 00:00:00;;;;;1;9;Magazine Luiza;A liquidar;Rua Werner Goldberg;179;Ap 225D;Jd. Tupanci;06.414-025;Clementina;SP;comercia@magazineluiza.com.br;Rua Werner Goldberg;179;15.910-000;Marinópolis/SP;33341089000109
+5;2;2019;3;2012019;1;13/03/2019 00:00:00;;;;;1;9;Magazine Luiza;A liquidar;Rua Werner Goldberg;179;Ap 225D;Jd. Tupanci;06.414-025;Clementina;SP;comercia@magazineluiza.com.br;Rua Werner Goldberg;179;15.910-000;Marinópolis/SP;33341089000109
+6;3;2019;3;3012019;1;13/03/2019 00:00:00;;;;;1;9;Magazine Luiza;A liquidar;Rua Werner Goldberg;179;Ap 225D;Jd. Tupanci;06.414-025;Clementina;SP;comercia@magazineluiza.com.br;Rua Werner Goldberg;179;15.910-000;Marinópolis/SP;33341089000109

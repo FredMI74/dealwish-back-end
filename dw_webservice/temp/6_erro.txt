@@ -1,0 +1,1 @@
+ORA-00904: "FU"."ID_SITUACAO": identificador inválido
